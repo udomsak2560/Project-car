@@ -1,2 +1,2 @@
-# Project Cardetection
+# Project Car
 Car detection (Logistic)
